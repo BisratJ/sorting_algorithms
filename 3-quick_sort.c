@@ -1,6 +1,6 @@
 /*
  * File: 3-quick_sort.c
- * Auth: Bisrat Gizaw
+ * Auth: Brennan D Baraban
  */
 
 #include "sort.h"
@@ -66,7 +66,7 @@ int lomuto_partition(int *array, size_t size, int left, int right)
  * @array: An array of integers to sort.
  * @size: The size of the array.
  * @left: The starting index of the array partition to order.
-[O * @right: The ending index of the array partition to order.
+ * @right: The ending index of the array partition to order.
  *
  * Description: Uses the Lomuto partition scheme.
  */

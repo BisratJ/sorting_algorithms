@@ -1,6 +1,6 @@
 /*
  * File: 1-insertion_sort_list.c
- * Auth: Bisrat Gizaw
+ * Auth: Brennan D Baraban
  */
 
 #include "sort.h"
